@@ -1,7 +1,7 @@
 ---
 title: Pasticceria Ganache
 layout: page
-feature_image: "https://i.picsum.photos/id/63/5422/3050.jpg?blur=2"
+feature_image: "https://i.picsum.photos/id/63/5422/3050.jpg?blur=5"
 feature_text: |
   ## La storia più dolce di sempre
 ---
