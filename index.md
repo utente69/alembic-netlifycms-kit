@@ -1,7 +1,7 @@
 ---
-title: Welcome to my website
+title: La storia più dolce di sempre
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "http://www.pasticceriasilvio.it/public/easynet5/images/4zb8xv4asgtre%20cioccolati%2001.jpg"
 feature_text: |
   ## Benvenuto nella Pasticceria Ganache
 ---
