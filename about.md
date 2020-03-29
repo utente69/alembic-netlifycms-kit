@@ -3,4 +3,4 @@ layout: page
 title: Pasticceria Ganache
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Crescendo migliora sempre più, partecipa ad innumerevoli corsi che gli permettono di perfezionare ed affinare le sue tecniche. Viene col tempo affiancato da uno staff valido e competente che contribuisce a rendere il servizio davvero impeccabile. Oggi se entrate nella Pasticceria Silvio trovate un’ambiente elegante, raffinato ma nello stesso tempo familiare che gli ha permesso di meritare un posto nella guida “Gambero Rosso” dove compaiono i locali migliori d’Italia.
