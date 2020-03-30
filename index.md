@@ -6,4 +6,4 @@ feature_text: |
   ## La storia più dolce di sempre
 ---
 
-Spumosa dolcezza, pregevole emozione. Dall'aprile del 1972 Pasticceria Ganache è sinonimo di qualità e artigianalità nel settore della pasticceria.
+Spumosa dolcezza, pregevole emozione. Dall'aprile del 1992 Pasticceria Ganache è sinonimo di qualità e artigianalità nel settore della pasticceria.
