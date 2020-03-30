@@ -4,12 +4,12 @@ feature_image: "https://i.picsum.photos/id/357/3888/2592.jpg"
 title: Contatti
 ---
 
-Ti aspettiamo nella nstra nuova sede Via Toledo 29 a Napoli 🇮🇹
+Ti aspettiamo nella nostra nuova sede in Via Toledo 29 a Napoli 🇮🇹
 
 
 Siamo aperti da martedì a domenica dalle ore 7:30 alle ore 19:00
 
-Siamo chiusi il lunedì
+Chiuso il lunedì
 
 [comment]: # (![Immagine contatti](https://i.picsum.photos/id/4/5616/3744.jpg))
 [comment]: # (![Imagine caffe](https://i.picsum.photos/id/63/5422/3050.jpg))
