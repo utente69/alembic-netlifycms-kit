@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: "https://unsplash.com/photos/dLNu65g0jMA"
+feature_image: "https://images.unsplash.com/photo-1528591922185-a0eb2f8f50b6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80"
 title: La pasticceria
 ---
 
