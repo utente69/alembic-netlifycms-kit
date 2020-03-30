@@ -11,6 +11,10 @@ Siamo aperti da martedì a domenica dalle ore 7:30 alle ore 19:00
 
 Chiuso il lunedì
 
+Per info o prenotazioni:
+
+info@pasticceriaganache.ga
+
 [comment]: # (![Immagine contatti](https://i.picsum.photos/id/4/5616/3744.jpg))
 [comment]: # (![Imagine caffe](https://i.picsum.photos/id/63/5422/3050.jpg))
 
