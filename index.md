@@ -8,3 +8,10 @@ feature_text: |
 ---
 
 Spumosa dolcezza, pregevole emozione. Dall'aprile del 1992 Pasticceria Ganache è sinonimo di qualità e artigianalità nel settore della pasticceria.
+
+
+🇮🇹 Il Buon Cioccolato dal 1992 🎂
+
+Cioccolateria-Biscotteria-Confetteria
+
+🍰Pasticceria artigianale 🍩
