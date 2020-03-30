@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: "https://i.picsum.photos/id/4/5616/3744.jpg"
+feature_image: "https://i.picsum.photos/id/357/3888/2592.jpg"
 title: Contatti
 ---
 
