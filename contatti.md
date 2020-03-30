@@ -5,7 +5,7 @@ title: Contatti
 
 Work in progress.
 
-![Immagine contatti](https://i.picsum.photos/id/4/5616/3744.jpg&width=50%)
+![Immagine contatti](https://i.picsum.photos/id/4/5616/3744.jpg&width=250)
 
 
 ![Immagine orari](https://i.picsum.photos/id/357/3888/2592.jpg)
