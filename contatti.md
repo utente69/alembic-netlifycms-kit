@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Pasticceria Ganache
+title: Contatti
 ---
 
-Se entrate nella Pasticceria Ganache trovate un’ambiente elegante, raffinato ma nello stesso tempo familiare che gli ha permesso di meritare un posto nella guida “Gambero Rosso” dove compaiono i locali migliori d’Italia.
+Work in progress.
 
 ![Immagine contatti](https://i.picsum.photos/id/4/5616/3744.jpg)
 
