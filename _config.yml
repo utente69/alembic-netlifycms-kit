@@ -24,7 +24,7 @@ baseurl: ''
 title: 'Ganache Napoli'
 description: 'Pasticceria Ganache'
 permalink: pretty
-logo: "assets/logo.png"
+logo: "/assets/logo.png"
 
 # Pagination
 paginate: 5
