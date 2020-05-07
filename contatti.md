@@ -4,7 +4,7 @@ feature_image: "https://i.picsum.photos/id/357/3888/2592.jpg"
 title: Contatti
 ---
 
-Ti aspettiamo nella nostra nuova sede in Via Toledo 29 a Napoli 🇮🇹
+Ti aspettiamo nella nostra nuova sede a Napoli 🇮🇹
 
 
 Siamo aperti da martedì a domenica dalle ore 7:30 alle ore 19:00
