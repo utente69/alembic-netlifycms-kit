@@ -52,4 +52,4 @@ collections:
     title: Menu
     output: true
     description: "Il nostro menu"
-    feature_image: "https://i.picsum.photos/id/999/4000/2667.jpg"
+    feature_image: "https://picsum.photos/id/999/4000/2667.jpg"
